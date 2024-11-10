@@ -25,3 +25,4 @@ dist-ssr
 
 # Ignore secrate file
 firebase.init.js
+.gitignore
